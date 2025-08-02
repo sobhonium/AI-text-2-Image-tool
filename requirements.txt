@@ -1,0 +1,19 @@
+# Core ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Stable Diffusion
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Image processing
+Pillow>=9.5.0
+numpy>=1.24.0
+
+# Web interface
+gradio>=3.40.0
+
+# Optional: For better performance
+xformers>=0.0.20 
